@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Put comments here that give an overall description of what #your functions do
 
 ##  creates a special "vector", which is a list containing a function to
 
